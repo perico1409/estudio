@@ -47,7 +47,7 @@ for (let i = 0; i < list.length; i++) {
     console.log(list[i])
 }
 
-// foeach  
+// forEach  
 
 list.forEach((item) => {
     console.log(item)
