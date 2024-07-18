@@ -11,8 +11,8 @@
 
 // operadores logicos
 
-// && si las condiciones se cumplen
-// || el operador o 
+// && si las condiciones se cumplen (y)
+// || el operador (o) 
 // ! si este valor no es esto
 
 // condicionales
