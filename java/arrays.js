@@ -51,4 +51,24 @@ let contadorPalabras = palabras.reduce((objeto, elemento) => {
 
 console.log(contadorPalabras) 
 
+// Spreed operator 
+
+function combineMorseMessages (mensaje1, mensaje2) {
+    return [...mensaje1, ...mensaje2]
+}
+// se puede utilizar para realizar copias
+
+const original = [1,2,3,4]
+const copia = [...original]
+
+// metodo every 
+
+const ages = [23, 24, 19, 20]
+
+const sonMayores = ages.every(age => age > 18)
+
+// metodo some 
+
+const alMenos = ages.some(age => age >= 24) 
+
 

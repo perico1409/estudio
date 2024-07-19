@@ -92,5 +92,5 @@ let contador1 = 0
 do  {
     console.log(contador)
     contador++
-} while(contador < 10)
+} while(contador < 10) 
 
